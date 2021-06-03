@@ -1,2 +1,2 @@
-# all
-all codes for different projects
+# 
+codes for different projects
